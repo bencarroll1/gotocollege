@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3047f70e-aa50-4cc4-93d7-5baa7d277d6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gotocollege.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gotocollege.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ask.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forInput1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectureprogramexit.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.JPG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603304777366</updated>
-      <workItem from="1603304778653" duration="1313000" />
+      <workItem from="1603304778653" duration="1713000" />
     </task>
     <servers />
   </component>
